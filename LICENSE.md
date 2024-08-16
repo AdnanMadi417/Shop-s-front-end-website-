@@ -1,0 +1,1 @@
+User-friendly Created sections to showcase the shop, including popular categories such as Women's Clothing, Men's Clothing, Kids' Clothing, Top Watch Brands, promotions, partnerships, and team members. Using HTLM and CSS 
